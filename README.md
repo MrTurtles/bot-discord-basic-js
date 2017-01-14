@@ -3,7 +3,7 @@
 ## Documentation
 
 Si vous êtes un nouveau développeur pour un bot discord , vous pouvez aller lire la documentation ici : 
-https://thomasbnt.github.io/bot-discord-basic-js/fr
+https://thomasbnt.fr/bot-discord-basic-js/fr
 
 
 ## Requiert 
@@ -17,7 +17,7 @@ https://thomasbnt.github.io/bot-discord-basic-js/fr
 ## Documentation
 
 If you a new dev for bot discord , you can see the documentation here : 
-https://thomasbnt.github.io/bot-discord-basic-js/en
+https://thomasbnt.fr/bot-discord-basic-js/en
 
 
 ## Require

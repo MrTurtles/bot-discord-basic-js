@@ -3,8 +3,6 @@ var Discord = require("discord.js");
 //require("node-opus");
 require("opusscript");
 
-// TOKEN
-bot.run(require('./token.json').token
 // autoReconnect is enabed
 var bot = new Discord.Client({autoReconnect: true});
 
@@ -37,3 +35,8 @@ bot.on("message", msg => {
     }
 
 });
+
+
+
+//Login with TOKEN for Bot
+bot.login(" VOTRE TOKEN ICI ");

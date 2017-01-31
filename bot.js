@@ -1,7 +1,8 @@
 // Discord.js
 var Discord = require("discord.js");
-//require("node-opus");
-require("opusscript");
+// Node-opus & opusscript sont pour l'audio, donc pour ce bot il n'est pas nécessaire de l'activer
+//require("node-opus"); 
+//require("opusscript");
 
 // autoReconnect is enabed
 var bot = new Discord.Client({autoReconnect: true});

@@ -16,7 +16,7 @@ bot.on('ready', () => {
 
   bot.user.setStatus("dnd"); //dnd , online , ldle
   //bot.user.setGame("Ton Jeu Ici", "https://twitch.tv/myusernametwitch"); // Pour les streamers , vous êtes obligé de mettre une URL Twitch sinon cela ne marchera pas.
-  bot.usersetGame("Besoin d'aide? /help");
+  bot.user.setGame("Besoin d'aide? /help");
   // Attention ! " bot.user.setGame " peux être utilisé qu'une seule fois, donc vérifiez si il y en a qu'un seul. 
   console.log("Houston ! Le bot est en ligne");
 });

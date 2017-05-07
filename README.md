@@ -1,11 +1,5 @@
 
 #### FR
-## Documentation
-
-Si vous êtes un nouveau développeur pour un bot discord , vous pouvez aller lire la documentation ici : 
-https://thomasbnt.fr/bot-discord-basic-js/
-
-
 ## Requiert 
 
 ```diff
@@ -14,12 +8,6 @@ https://thomasbnt.fr/bot-discord-basic-js/
 ```
 
 #### EN
-## Documentation
-
-If you a new dev for bot discord , you can see the documentation here : 
-https://thomasbnt.fr/bot-discord-basic-js/
-
-
 ## Require
 
 ```diff
